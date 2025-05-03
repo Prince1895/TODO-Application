@@ -11,13 +11,12 @@ A simple and visually appealing TO-DO list web application built using HTML, CSS
 - Clean and responsive UI with background graphics.
 - Made with ❤️ by [Prince1895](https://github.com/Prince1895)
 
-## 📸 Screenshot
-
-![TO-DO Application Screenshot]()
-
-> Replace `D:\projects\TODO Application\assets\Screenshot 2025-05-03 163606.png` with the actual path to the screenshot in your repo.
-
 ## 🚀 Getting Started
+
+👉 [Click here to visit the live site](https://your-vercel-app.vercel.app)
+
+[![Visit Live Site](https://img.shields.io/badge/Visit-Live%20Site-orange?style=for-the-badge)](https://your-vercel-app.vercel.app)
+
 
 ### Prerequisites
 
