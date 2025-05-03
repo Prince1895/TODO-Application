@@ -15,7 +15,7 @@ A simple and visually appealing TO-DO list web application built using HTML, CSS
 
 ![TO-DO Application Screenshot]()
 
-> Replace `./path/to/screenshot.png` with the actual path to the screenshot in your repo.
+> Replace `D:\projects\TODO Application\assets\Screenshot 2025-05-03 163606.png` with the actual path to the screenshot in your repo.
 
 ## 🚀 Getting Started
 
