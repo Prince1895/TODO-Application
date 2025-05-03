@@ -13,9 +13,7 @@ A simple and visually appealing TO-DO list web application built using HTML, CSS
 
 ## 🚀 Getting Started
 
-👉 [Click here to visit the live site](https://your-vercel-app.vercel.app)
-
-[![Visit Live Site](https://img.shields.io/badge/Visit-Live%20Site-orange?style=for-the-badge)](https://your-vercel-app.vercel.app)
+[![Visit Live Site](https://img.shields.io/badge/Visit-Live%20Site-orange?style=for-the-badge)](https://to-do-application-lyart-omega.vercel.app/)
 
 
 ### Prerequisites
